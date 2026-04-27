@@ -12,7 +12,7 @@ This project analyzes sales data from a CSV file using Scilab.
 ## Files
 - Sales_Analytics.sce
 - 100 Sales Records.csv
-- Project_Report.pdf
+- Sales_Analytics_Project_Report.pdf
 - Presentation.pptx
 
 ## Tools Used
