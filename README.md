@@ -20,4 +20,4 @@ This project analyzes sales data from a CSV file using Scilab.
 - CSV Dataset
 
 ## Author
-Your Name
+Prince Yadav
